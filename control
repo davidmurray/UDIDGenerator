@@ -1,0 +1,10 @@
+Package: me.cykey.udidgenerator
+Name: UDIDGenerator
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Generate the UDID just like Apple does.
+Maintainer: Cykey
+Author: Cykey
+Section: System
+Tag: role::hacker
