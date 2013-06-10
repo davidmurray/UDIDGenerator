@@ -15,3 +15,9 @@
 *.exe
 *.out
 *.app
+
+# Theos
+._*
+*.deb
+.theos
+.DS_Store
